@@ -104,7 +104,7 @@ nav .nav-item .nav-link:hover,
       rgba(50, 50, 50, 0.5),
       rgba(50, 50, 50, 0.3)
     ),
-    url(/images/middle-fix.jpg);
+    url(./images/middle-fix.jpg);
   width: 100vw;
   background-attachment: fixed;
   height: 500px;
